@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[View Full CV (PDF)](/file/CV.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-[View Full CV (PDF)](/file/CV.pdf)
 
 Education
 ======
