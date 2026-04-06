@@ -7,7 +7,7 @@ excerpt: 'Existing clinical assessments for upper-limb motor rehabilitation post
 nearly 60% reduction in the required sample size for clinical trials compared to traditional assessments. These findings highlight its potential as a low-burden, scalable assessment tool for upper-limb motor recovery, with applications in both clinical trials and practice.'
 date: 2025-01-14
 venue: 'medRxiv (Under reviewed at Science Translational Medicine)'
-paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://www.medrxiv.org/content/10.1101/2025.01.13.25320461v1)'
+paperurl: '[https://academicpages.github.io/files/paper1.pdf]'
 citation: 'Wang, R., Lang, C. E., Stoykov, M. E., Bonato, P., & Lee, S. I. (2025). Wearable-based digital biomarker provides a valid alternative to traditional clinical measures for post-stroke upper-limb motor recovery. medRxiv, 2025-01.'
 
 ---
