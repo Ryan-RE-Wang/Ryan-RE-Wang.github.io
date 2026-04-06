@@ -7,8 +7,9 @@ excerpt: 'We proposed a novel data augmentation method to reduce performance dis
 
 date: 2024-04-01
 venue: 'EBioMedicine'
-paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00082-3/fulltext)'
+paperurl: '[https://academicpages.github.io/files/drop_shortcuts.pdf]'
 
+citation: 'Wang, R., Kuo, P. C., Chen, L. C., Seastedt, K. P., Gichoya, J. W., & Celi, L. A. (2024). Drop the shortcuts: image augmentation improves fairness and decreases AI detection of race and other demographics from medical images. EBioMedicine, 102.'
 ---
 
 **Background**
